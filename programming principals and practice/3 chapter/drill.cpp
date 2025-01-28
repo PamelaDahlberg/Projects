@@ -24,7 +24,7 @@ int main(){
 
     cout << "Enter your name: ";
     cin >> first_name;
-    cout << "Dear " << first_name << " how are you?" << "\n" << "How is you friend..." << "\n";
+    cout << "Dear " << first_name << " how are you?" << "\n" << "How is your friend..." << "\n";
     cin >> friend_name;
     cout << friend_name << "?" << "\n" << "Are they a boy (m) or girl (f)?" << "\n";
     cin >> gender;

@@ -12,8 +12,6 @@ inline void keep_window_open() { char ch; cin>>ch; }
 
 int main(){
     cout << "Hello World!\n";
-    cout << "Here we go!\n";
-    keep_window_open();
 
-    return 0;;
+    return 0;
 }

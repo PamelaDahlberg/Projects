@@ -13,6 +13,10 @@ inline void keep_window_open() { char ch; cin>>ch; }
 #include<iostream>
 #include<string>
 #include<cmath>
+#include<vector>
+#include<array>
+#include<limits>
+#include<algorithm>
 
 using namespace std;
 
